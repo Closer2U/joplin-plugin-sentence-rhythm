@@ -1,0 +1,15 @@
+{
+  "name": "joplin-plugin-sentence-rhythm",
+  "version": "0.1.8",
+  "description": "Joplin plugin that highlights sentence length and writing rhythm in the Markdown editor.",
+  "keywords": [
+    "joplin-plugin",
+    "joplin",
+    "editor",
+    "writing",
+    "sentence",
+    "rhythm"
+  ],
+  "license": "MIT",
+  "author": "Arena.ai Agent Mode"
+}

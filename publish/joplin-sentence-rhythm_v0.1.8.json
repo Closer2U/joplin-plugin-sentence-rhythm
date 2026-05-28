@@ -1,0 +1,31 @@
+{
+  "manifest_version": 1,
+  "id": "io.github.arenaai.sentence-rhythm",
+  "name": "Sentence Rhythm",
+  "version": "0.1.8",
+  "app_min_version": "2.14.6",
+  "platforms": [
+    "desktop"
+  ],
+  "author": "Arena.ai Agent Mode",
+  "description": "Highlights sentences by length in Joplin's Markdown editor to reveal writing rhythm, pacing, and sentence variety.",
+  "homepage_url": "https://github.com/adamfletcher/obsidian-sentence-rhythm",
+  "repository_url": "https://github.com/adamfletcher/obsidian-sentence-rhythm",
+  "keywords": [
+    "joplin-plugin",
+    "editor",
+    "writing",
+    "style",
+    "sentence",
+    "rhythm",
+    "readability"
+  ],
+  "categories": [
+    "editor",
+    "appearance",
+    "productivity"
+  ],
+  "_publish_hash": "sha256:4f13896c1637f91454eb0e81bcc7c5edd0e3b55f0ef59973deaf3c26e6f68204",
+  "_publish_commit": "workspace:manual-build",
+  "_npm_package_name": "joplin-plugin-sentence-rhythm"
+}
