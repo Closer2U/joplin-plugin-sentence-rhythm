@@ -2,12 +2,21 @@
 
 A Joplin plugin mainly for authors and writers that highlights sentences by length so you can see pacing, variation, and writing rhythm at a glance. It also evaluates the readability based on the [Flesch–Kincaid](https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests)-Formula.
 
+> [!TIP]
+> Versions > 0.2.0 support mobile. [Get it here 🫴](publish/joplin-sentence-rythm_0.2.6.jpl)<br>
+> Tested on Fairphone 6.
+
+<br>
+
+***
+
 <div align="center" style="display:flex;flex-direction:column;justify-content:center; align-items:flex-start; flex-wrap: wrap;">
   <img style="flex: 1 1 75%" src="_screenshots/Fullscreen.png" width=800></img> 
   <img style="flex: 1 1 25%" src="_screenshots/Context-Menu.png" width=300></img>
   <img style="flex: 1 1 25%" src="_screenshots/Overview.png" width=400></img>	
 </div>
 
+🚧 Todo: add mobile screenshots 
 
 ## Current version
 
@@ -121,6 +130,43 @@ This plugin is inspired by Adam Fletcher’s Obsidian plugin:
 ---
 
 ## Short changelog
+
+### v0.2.6
+- Added adjustable word-count safety limits for editor and viewer highlighting
+- New advanced settings:
+  - Max words for editor highlighting
+  - Max words for viewer highlighting
+- Set limit to `0` to disable
+
+### v0.2.5
+- Added viewer-render safety fallback
+- If viewer highlighting fails, the note now renders normally instead of breaking the whole viewer
+
+### v0.2.4
+- Fixed mobile/global rendered-view crash
+- Reworked viewer highlighting to avoid unsupported JS asset loading in the rendered note view
+
+### v0.2.3
+- Fixed Android/mobile startup error from reading settings before registration
+- Corrected mobile initialization order
+
+### v0.2.2
+- Added separate settings for:
+  - highlight in editor
+  - highlight in viewer
+- Added viewer highlighting support
+
+### v0.2.1
+- Added dedicated mobile overview panel in Joplin’s plugin views area
+- Added **Analyze** button inside the mobile panel
+
+### v0.2.0
+- Started cross-platform line
+- Added desktop/mobile support
+- Kept full desktop functionality
+- Reduced unsupported UI on mobile
+
+***
 
 ### v0.1.8
 - Readability display changed to descriptive labels like "Very easy to read"
