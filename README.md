@@ -3,9 +3,9 @@
 A Joplin plugin mainly for authors and writers that highlights sentences by length so you can see pacing, variation, and writing rhythm at a glance. It also evaluates the readability based on the [Flesch–Kincaid](https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests)-Formula.
 
 <div align="center" style="display:flex;flex-direction:column;justify-content:center; align-items:flex-start; flex-wrap: wrap;">
-<img style="flex: 1 1 100%" src="_screenshots/Fullscreen.png" width=800></img> 
-<img style="flex: 1 1 50%" src="_screenshots/Context-Menu.png" width=300></img>
-<img style="flex: 1 1 50%" src="_screenshots/Overview.png" width=400></img>	
+  <img style="flex: 1 1 75%" src="_screenshots/Fullscreen.png" width=800></img> 
+  <img style="flex: 1 1 25%" src="_screenshots/Context-Menu.png" width=300></img>
+  <img style="flex: 1 1 25%" src="_screenshots/Overview.png" width=400></img>	
 </div>
 
 
@@ -155,3 +155,17 @@ This plugin is inspired by Adam Fletcher’s Obsidian plugin:
 
 ### v0.1.1
 - Initial packaged version
+
+## Disclaimer
+This was massively developped with the help of AI Agents and the code is only partially humanly verified. So use with caution
+
+<div align="center">
+
+<pre align="center">
+
+╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮
+·      ＦＥＥＬ ＴＨＥ ＲＨＹＴＨＭ． ＮＯＷ ＧＯ ＷＲＩＴＥ ＹＯＵＲ ＮＯＶＥＬ．      ·
+╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯
+</pre>
+
+</div>
