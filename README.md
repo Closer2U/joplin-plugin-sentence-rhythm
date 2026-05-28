@@ -1,4 +1,4 @@
-# Sentence Rhythm for Joplin
+# Sentence Rhythm Analysis for Joplin
 
 A Joplin plugin mainly for authors and writers that highlights sentences by length so you can see pacing, variation, and writing rhythm at a glance. It also evaluates the readability based on the [Flesch–Kincaid](https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests)-Formula.
 
