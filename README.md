@@ -3,7 +3,7 @@
 A Joplin plugin mainly for authors and writers that highlights sentences by length so you can see pacing, variation, and writing rhythm at a glance. It also evaluates the readability based on the [Flesch–Kincaid](https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests)-Formula.
 
 > [!TIP]
-> Versions > 0.2.0 support mobile. [Get it here 🫴](publish/joplin-sentence-rythm_0.2.6.jpl)<br>
+> Versions > 0.2.0 support mobile. [Get it here 🫴](publish/joplin-sentence-rhythm_0.2.6.jpl)<br>
 > Tested on Fairphone 6.
 
 <br>
