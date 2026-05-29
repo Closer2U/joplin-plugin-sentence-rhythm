@@ -131,6 +131,14 @@ This plugin is inspired by Adam Fletcher’s Obsidian plugin:
 
 ## Short changelog
 
+### Changes in v0.2.7
+- **Skips YAML frontmatter** at the very start of a note:
+  - from opening `---`
+  - to closing `---`
+- **Skips everything inside `<details>...</details>`**
+- **Fixes the “first sentence gets skipped” issue**
+  - by treating skipped regions as hard separators, so the first real sentence after frontmatter/details no longer gets swallowed into a skipped block
+
 ### v0.2.6
 - Added adjustable word-count safety limits for editor and viewer highlighting
 - New advanced settings:
